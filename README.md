@@ -29,5 +29,5 @@ I'm PhD candidate at Uppsala University. Here you'll find a collection of my ope
 
 Feel free to connect and reach out! 😄
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/n7729697)
+[![GitHub followers](https://img.shields.io/github/followers/n7729697?label=Follow&style=social)](https://github.com/n7729697)
 
