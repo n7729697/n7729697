@@ -3,14 +3,20 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/n7729697/n7729697/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/n7729697/n7729697/output/github-contribution-grid-snake.svg">
 </picture>
-<p align="center">
-  <a href="https://github.com/n7729697/github-readme-stats&cache_seconds=3600&locale=en&bg_color=00000000&title_color=1277EB&text_color=6A737D&icon_color=6A737D&hide_border=true&disable_animations=true&custom_title=Stats&show_icons=true&line_height=18&hide_rank=true&count_private=true&include_all_commits=false">
-    <img src="https://github-readme-stats.vercel.app/api?username=n7729697" width="45%" />
-  </a>
-  <a href="https://github.com/n7729697/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n7729697&layout=compact&card_width=245&langs_count=6&exclude_repo=dotfiles,github-readme-stats&hide=tex,makefile,cmake,qmake,jupyter%20notebook" width="45%" />
-  </a>
-</p>
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div>
+    <a href="https://github.com/n7729697/github-readme-stats&cache_seconds=3600&locale=en&bg_color=00000000&title_color=1277EB&text_color=6A737D&icon_color=6A737D&hide_border=true&disable_animations=true&custom_title=Stats&show_icons=true&line_height=18&hide_rank=true&count_private=true&include_all_commits=false">
+      <img src="https://github-readme-stats.vercel.app/api?username=n7729697" width="100%" />
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/n7729697/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n7729697&layout=compact&card_width=245&langs_count=6&exclude_repo=dotfiles,github-readme-stats&hide=tex,makefile,cmake,qmake,jupyter%20notebook" width="100%" />
+    </a>
+  </div>
+</div>
+
 
 
 # Hi there, I'm NIU Xuezhi 👋
