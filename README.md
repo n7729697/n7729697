@@ -5,10 +5,10 @@
 </picture>
 <p align="center">
   <a href="https://github.com/n7729697/github-readme-stats&cache_seconds=3600&locale=en&bg_color=00000000&title_color=1277EB&text_color=6A737D&icon_color=6A737D&hide_border=true&disable_animations=true&custom_title=Stats&show_icons=true&line_height=18&hide_rank=true&count_private=true&include_all_commits=false">
-    <img src="https://github-readme-stats.vercel.app/api?username=n7729697" width="50%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=n7729697" width="45%" />
   </a>
   <a href="https://github.com/n7729697/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n7729697&layout=compact&card_width=245&langs_count=6&exclude_repo=dotfiles,github-readme-stats&hide=tex,makefile,cmake,qmake,jupyter%20notebook" width="50%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n7729697&layout=compact&card_width=245&langs_count=6&exclude_repo=dotfiles,github-readme-stats&hide=tex,makefile,cmake,qmake,jupyter%20notebook" width="45%" />
   </a>
 </p>
 
