@@ -3,9 +3,15 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/n7729697/n7729697/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/n7729697/n7729697/output/github-contribution-grid-snake.svg">
 </picture>
-<p align="center" float="middle">
-  <a href="https://github.com/n7729697?tab=repositories&q=&type=source&language=&sort=stargazers"><img src="https://github-readme-stats-n7729697.vercel.app/api?username=n7729697&cache_seconds=3600&locale=en&bg_color=00000000&title_color=1277EB&text_color=6A737D&icon_color=6A737D&hide_border=true&disable_animations=true&custom_title=Stats&show_icons=true&line_height=18&hide_rank=true&count_private=true&include_all_commits=false" width="50%"/></a><a href="https://github.com/n7729697?query=&tab=projects&type=classic"><img src="https://github-readme-stats-n7729697.vercel.app/api/top-langs/?username=n7729697&cache_seconds=3600&locale=en&bg_color=00000000&title_color=1277EB&text_color=6A737D&icon_color=6A737D&hide_border=true&disable_animations=true&custom_title=Languages&layout=compact&card_width=245&langs_count=6&exclude_repo=dotfiles,github-readme-stats&hide=tex,makefile,cmake,qmake,jupyter%20notebook" width="50%"/></a>
+<p align="center">
+  <a href="https://github.com/n7729697?tab=repositories&q=&type=source&language=&sort=stargazers">
+    <img src="https://github-readme-stats-n7729697.vercel.app/api?username=n7729697&cache_seconds=3600&locale=en&bg_color=00000000&title_color=1277EB&text_color=6A737D&icon_color=6A737D&hide_border=true&disable_animations=true&custom_title=GitHub Stats&show_icons=true&line_height=18&hide_rank=true&count_private=true&include_all_commits=false" width="45%"/>
+  </a>
+  <a href="https://github.com/n7729697?query=&tab=projects&type=classic">
+    <img src="https://github-readme-stats-n7729697.vercel.app/api/top-langs/?username=n7729697&cache_seconds=3600&locale=en&bg_color=00000000&title_color=1277EB&text_color=6A737D&icon_color=6A737D&hide_border=true&disable_animations=true&custom_title=Most Used Languages&layout=compact&card_width=245&langs_count=6&exclude_repo=dotfiles,github-readme-stats&hide=tex,makefile,cmake,qmake,jupyter%20notebook" width="45%"/>
+  </a>
 </p>
+
 # Hi there, I'm NIU Xuezhi 👋
 
 I'm PhD candidate at Uppsala University. Here you'll find a collection of my open-source projects and contributions to various tech communities. Feel free to explore and get in touch!
