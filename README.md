@@ -28,9 +28,9 @@ I'm PhD candidate at Uppsala University. Here you'll find a collection of my ope
 - 📚 Learning new technologies and improving my skills.
 
 ## 💼 My Projects
-
-- [Project 1](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-324226): Electronically Regulated Hybrid Valve for Milking System (HK project)
-- [Project 2](https://github.com/n7729697/drone-project): Monocular Autonomous Drone Systems
+- [Project 1](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-339056): Optimal Gait Control of Soft Quadruped Robot by Model-based Reinforcement Learning (Master Thesis)
+- [Project 2](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-324226): Electronically Regulated Hybrid Valve for Milking System (HK project)
+- [Project 3](https://github.com/n7729697/drone-project): Monocular Autonomous Drone Systems
 
 ## 📫 How to Reach Me
 
