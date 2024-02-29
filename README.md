@@ -24,7 +24,7 @@ I'm PhD candidate at Uppsala University. Here you'll find a collection of my ope
 
 ## 🌱 What I'm Currently Doing
 
-- 👨‍💻 Working on Master Thesis Project: Optimal Gait Control of Soft Quadruped Robot by Model-based Reinforcement Learning
+- 👨‍💻 Multi-Agent Reinforcement Learning (MARL) in decentralized Cyber-Physical Systems
 - 📚 Learning new technologies and improving my skills.
 
 ## 💼 My Projects
