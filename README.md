@@ -35,6 +35,7 @@ I'm PhD candidate at Uppsala University. Here you'll find a collection of my ope
 
 ## 📫 How to Reach Me
 
+- Email: xuezhi.niu@it.uu.se
 - Email: n7729697@gmail.com (personal)
 
 Feel free to connect and reach out! 😄
