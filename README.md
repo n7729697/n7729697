@@ -15,7 +15,7 @@
 
 # Hi there, I'm NIU Xuezhi 👋
 
-I'm PhD student at Uppsala University. Here you'll find a collection of my open-source projects and contributions to various tech communities. Feel free to explore and get in touch!
+I'm a PhD student at Uppsala University. Here you'll find a collection of my open-source projects and contributions to various tech communities. Feel free to explore and get in touch!
 
 ## 🚀 Quick Links
 
