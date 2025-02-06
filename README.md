@@ -19,7 +19,7 @@ I'm a PhD student at Uppsala University. Here you'll find a collection of my ope
 
 ## 🚀 Quick Links
 
-- [Portfolio Website](https://n7729697.github.io/)
+- [Portfolio Website](https://xuezhiniu.site/)
 - [LinkedIn](https://www.linkedin.com/in/xuezhi-niu-17b85014b/)
 
 ## 🌱 What I'm Currently Doing
