@@ -1,16 +1,17 @@
+<!-- Contribution snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/n7729697/n7729697/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/n7729697/n7729697/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/n7729697/n7729697/output/github-contribution-grid-snake.svg">
 </picture>
 
+<!-- Stats -->
 <p align="center">
-  <a href="https://github.com/n7729697?tab=repositories&sort=stargazers">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=n7729697&cache_seconds=86400&bg_color=00000000&title_color=1277EB&text_color=6A737D&icon_color=6A737D&hide_border=true&custom_title=Stats&show_icons=true&line_height=18&hide_rank=true" width="48%" />
-  </a>
-  <a href="https://github.com/n7729697">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=n7729697&layout=compact&langs_count=6&hide=tex,makefile,cmake,qmake,jupyter%20notebook" width="48%" />
-  </a>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=n7729697&show_icons=true&hide_border=true" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=n7729697&layout=compact" width="60%" />
 </p>
 
 # Hi there, I'm NIU Xuezhi 👋
