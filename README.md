@@ -5,11 +5,11 @@
 </picture>
 
 <p align="center">
-  <a href="https://github.com/n7729697?tab=repositories&q=&type=source&language=&sort=stargazers">
-    <img src="https://github-readme-stats.vercel.app/api?username=n7729697&cache_seconds=3600&locale=en&bg_color=00000000&title_color=1277EB&text_color=6A737D&icon_color=6A737D&hide_border=true&disable_animations=true&custom_title=Stats&show_icons=true&line_height=18&hide_rank=true&count_private=true&include_all_commits=false" width="48%" height="auto" />
+  <a href="https://github.com/n7729697?tab=repositories&sort=stargazers">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=n7729697&cache_seconds=86400&bg_color=00000000&title_color=1277EB&text_color=6A737D&icon_color=6A737D&hide_border=true&custom_title=Stats&show_icons=true&line_height=18&hide_rank=true" width="48%" />
   </a>
   <a href="https://github.com/n7729697">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n7729697&layout=compact&card_width=245&langs_count=6&exclude_repo=dotfiles,github-readme-stats&hide=tex,makefile,cmake,qmake,jupyter%20notebook" width="48%" height="auto" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=n7729697&layout=compact&langs_count=6&hide=tex,makefile,cmake,qmake,jupyter%20notebook" width="48%" />
   </a>
 </p>
 
