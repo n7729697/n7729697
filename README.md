@@ -7,11 +7,12 @@
 
 <!-- Stats -->
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=n7729697&show_icons=true&hide_border=true" width="80%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=n7729697&layout=compact" width="60%" />
+  <a href="https://github.com/n7729697?tab=repositories&sort=stargazers">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=n7729697&show_icons=true&hide_border=true&line_height=20&card_width=500" width="48%" />
+  </a>
+  <a href="https://github.com/n7729697">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=n7729697&layout=compact&langs_count=6&card_width=500" width="48%" />
+  </a>
 </p>
 
 # Hi there, I'm NIU Xuezhi 👋
